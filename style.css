@@ -5,14 +5,30 @@
 }
 
 body {
-  background-color: gray;
+  background-color: black;
+  font-family: "Poppins", sans-serif;
 }
 
 img {
   width: 300px;
-  border-radius: 50%;
+  border-radius: 40px;
+  box-shadow: 0px 0px 12px 4px white;
 }
 
 h1 {
   color: #ffffff;
+  font-family: "Matemasie", sans-serif;
+}
+
+.titulo-musicas {
+  color: #ff0000;
+}
+
+ol {
+  background-color: rgba(41, 41, 41, 0.621);
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
